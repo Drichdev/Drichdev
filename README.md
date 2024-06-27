@@ -7,7 +7,7 @@ Devoloper
 I love code
 
 * ✉️  You can contact me at [iamulrich8@gmail.com](mailto:iamulrich8@gmail.com)
-* 🧠  I'm learning Spring boot, Angular, Python, Flutter
+* 🧠  I'm learning Spring boot, React, Python
 * 🤝  I'm open to collaborating on interesting projects
 
 
